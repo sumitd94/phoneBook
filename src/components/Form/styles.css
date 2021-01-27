@@ -1,0 +1,20 @@
+.formContainer {
+  width: 100%;
+}
+
+.userForm {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: auto;
+}
+
+.userForm input, button {
+  margin: 10px 0px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.userForm button {
+  cursor: pointer;
+}
